@@ -2,7 +2,7 @@
 - 👀 I’m currently working on rbx.sale
 - 🌱 I’m currently learning JS, React
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me cursed@seized.us
+- 📫 How to reach me on discord x1#6969
 
 <!---
 SlyStreets/SlyStreets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
